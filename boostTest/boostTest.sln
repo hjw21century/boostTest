@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boostFunction", "boostFunct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boostIntger", "boostIntger\boostIntger.vcxproj", "{2A16812E-241E-43DE-9553-C8BE0DFF3D71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boostFormat", "boostFormat\boostFormat.vcxproj", "{1E4D0AEC-9101-4F62-8927-E0941906B4FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2A16812E-241E-43DE-9553-C8BE0DFF3D71}.Release|x64.Build.0 = Release|x64
 		{2A16812E-241E-43DE-9553-C8BE0DFF3D71}.Release|x86.ActiveCfg = Release|Win32
 		{2A16812E-241E-43DE-9553-C8BE0DFF3D71}.Release|x86.Build.0 = Release|Win32
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Debug|x64.ActiveCfg = Debug|x64
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Debug|x64.Build.0 = Debug|x64
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Debug|x86.Build.0 = Debug|Win32
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Release|x64.ActiveCfg = Release|x64
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Release|x64.Build.0 = Release|x64
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Release|x86.ActiveCfg = Release|Win32
+		{1E4D0AEC-9101-4F62-8927-E0941906B4FF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
